@@ -1,0 +1,7 @@
+.mongo-atlas-api2.sh
+.mongo-atlas-api.sh
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.kate-swp
